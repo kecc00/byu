@@ -3,7 +3,6 @@ File: check09_sample.py
 Author: Kevin E. Cruz
 """
 
-
 friend_list = []
 
 #
